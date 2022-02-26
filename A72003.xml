@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aduertisments partly for due order in the publique administration of common prayers and vsinge the holy Sacramentes, and partly for the apparrell of all persons ecclesiasticall by vertue of the Queenes maiesties letters commaunding the same, the xxv. day of Ianuary, in the seuenth yeare of the reigne of oure soueraigne lady Elyzabeth, by the grace of God, of Englande, Fraunce and Irelande Queene, defender of the faith, [et]c.</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1565</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72003</idno>
+            <idno type="STC">STC 10027</idno>
+            <idno type="STC">ESTC S121956</idno>
+            <idno type="EEBO-CITATION">99899079</idno>
+            <idno type="PROQUEST">99899079</idno>
+            <idno type="VID">22785</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72003)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 22785)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 341:16, 1957:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aduertisments partly for due order in the publique administration of common prayers and vsinge the holy Sacramentes, and partly for the apparrell of all persons ecclesiasticall by vertue of the Queenes maiesties letters commaunding the same, the xxv. day of Ianuary, in the seuenth yeare of the reigne of oure soueraigne lady Elyzabeth, by the grace of God, of Englande, Fraunce and Irelande Queene, defender of the faith, [et]c.</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>[Printed by Reginalde Wolfe] Cum priuilegio ad imprimendum solum,</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>[1565?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from colophon; publication date from STC.</note>
+                  <note>Signatures: A-B4.</note>
+                  <note>In this edition, A2r catchword is "maiesties"; A3r catchword is "marche" and heading ends "preaching.". Most of A outer forme, B1v, B2v, and B3r are in the same setting as STC 10026--STC.</note>
+                  <note>Variant: title has "payers".</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery, San Marino, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+               <term>Clothing and dress --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:22785:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:22785:1"/>
+            <!-- PDF PAGE 1 -->
+            <p>
+               <hi>Aduertiſments</hi> partly for due order in the publique adminiſtration of common prayers and vſinge the holy Sacramentes, and partly for the apparrell of all perſons eccleſiaſti<g ref="char:EOLhyphen"/>call, by vertue of the Queenes maieſties letters com<g ref="char:EOLhyphen"/>maunding the ſame, the xxv. day of Ianuary, in the ſeuenth yeare of the reigne of oure Soueraigne Lady <hi>ELYZABETH,</hi> by the grace of God, of Englande, Fraunce and Irelande Queene, de<g ref="char:EOLhyphen"/>fender of the faith &amp;c.</p>
+            <p>
+               <g ref="char:leaf">❧</g>
+            </p>
+            <figure/>
+            <p>LONDINI.</p>
+            <p>Cum priuilegio ad imprimen<g ref="char:EOLhyphen"/>dum ſolum.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:22785:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb facs="tcp:22785:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>The Preface.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes maieſty of her godly zeale calling to remembraunce how neceſſa<g ref="char:EOLhyphen"/>ry it is to thauau<g ref="char:cmbAbbrStroke">̄</g>ceme<g ref="char:cmbAbbrStroke">̄</g>t of gods glory, and to the eſtabliſhment of Chriſtes pure Religion, for all her louinge ſub<g ref="char:EOLhyphen"/>iectes, eſpecially the ſtate Eccleſiaſtical, to bee knitte together in one perfecte vnity of doctrine, and to be conioined in one vniformity of Rites and Maners in y<hi rend="sup">e</hi> miniſtration of gods holy word, in open prai<g ref="char:EOLhyphen"/>er and miniſtracion of Sacraments, as alſo to be of one decent behauiour in their outwarde appar<g ref="char:EOLhyphen"/>rell, to be knowne partly by their diſtinct habits to be of that vocation (who ſhoulde be reuerenced the rather in their offices as Miniſters of the holye thinges wherto they be called) hath by her letters directed vnto the Archebyſhop of Canterbury and Metropolitane, required, enioyned and ſtraightlye charged, y<hi rend="sup">t</hi> with aſſiſtance and conference had with other byſhops, namely ſuche as be in co<g ref="char:cmbAbbrStroke">̄</g>miſſion for cauſes eccleſiaſticall, ſome orders might be taken, wherby all diuerſities and varieties amonge them of the clergy and the people (as breadinge nothinge but contention, offence and breach of common cha<g ref="char:EOLhyphen"/>rity, and be againſt the lawes, good vſuage and or<g ref="char:EOLhyphen"/>dinaunces of the Realm) might be reformed and re<g ref="char:EOLhyphen"/>preſſed, and brought to one maner of vniformitye thoroughout y<hi rend="sup">e</hi> whole Realm, that the people may therby quietly honour and ſerue almighty God in truthe, concord, vnity, peace and quietnes, as by her
+<pb facs="tcp:22785:3"/>
+               <!-- PDF PAGE 3 -->
+maieſties ſaid letters more at large dothe appeare. Whervppon by diligent conference and communi<g ref="char:EOLhyphen"/>cation in the ſame, and at laſte by aſſent and conſent of the perſons before ſaid, theſe orders and rules en<g ref="char:EOLunhyphen"/>ſuing, haue beene thought meete &amp; conuenient to be vſed and folowed: not yet preſcribing theſe rules as lawes equiualent with the eternal word of God, &amp; as of neceſſity to binde the conſciences of her ſub<g ref="char:EOLhyphen"/>iectes in the nature of them conſidered in them ſel<g ref="char:EOLhyphen"/>ues: Or as they ſhoulde adde any efficacy, or more holines to the vertue of publique prayer and to the Sacraments, but as temporall orders mere Eccle<g ref="char:EOLhyphen"/>ſiaſticall, without any vaine ſuperſtition, and as rules in ſome part of diſcipline concerning decency, diſtinction, and order for the time.</p>
+         </div>
+      </front>
+      <body>
+         <div type="instructions_for_ecclesiastical_administration">
+            <pb facs="tcp:22785:3"/>
+            <!-- PDF PAGE 3 -->
+            <div type="part">
+               <head>Articles for doctrine, &amp; preaching.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>irſt, that al they which ſhalbe admitted to preache, ſhalbe diligentlie examined for their co<g ref="char:cmbAbbrStroke">̄</g>formytie in vnitie of doctri<g ref="char:EOLhyphen"/>ne, eſtabliſſhed by publique authoritie: and admoniſſhed to vſe ſobriety and diſ<g ref="char:EOLhyphen"/>cretion in teachinge the people, namlye in matters of controuerſy, and to conſider the grauity of theire office, &amp; to foreſee with diligence the matters which they will ſpeake, to vtter them to the edification of the audience.</p>
+               <p>Item, that they ſett owte in theire preaching the reuerent eſtimation of the holie Sacramentes of Baptiſme and the Lordes ſupper, excitinge the peo<g ref="char:EOLhyphen"/>ple to thoften and deuoute receauing of the holy co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>munion of the bodie and bloude of Chriſt, in ſuche forme as is already preſcribed in the booke of Com<g ref="char:EOLunhyphen"/>mon praier, and as it is further declared in an Ho<g ref="char:EOLhyphen"/>melye concernynge the vertue and efficacie of the ſaid Sacramentes.</p>
+               <p>Item, that they move the people to all obedience, aſwell in obſeruation of the orders appointed in the booke of Common ſeruice, as in the Queenes Ma<g ref="char:EOLhyphen"/>geſties iniunctions, as alſo of all other ciuil duetyes due for ſubiectes to doe.</p>
+               <p>Item, that allycences for preaching, graunted out by the archebyſhop &amp; byſhopes within the prouince of Canterbury, bearing date before the firſte day of
+<pb facs="tcp:22785:4"/>
+                  <!-- PDF PAGE 4 -->
+marche 1564 be voyde and of none effect: and neuer<g ref="char:EOLhyphen"/>theleſſe all ſuch as ſhalbe thought meete for the of<g ref="char:EOLhyphen"/>fice, to be admitted againe without difficultye or charge, paing no more but iiii. pens for the writing, parchement and waxe.</p>
+               <p>Item, yf anye Preacher or parſon, vicar or curate ſo licenſed, ſhall fortune to Preache any matter tendinge to diſſention, or to the derogation of the religion and doctrine receiuid, that the hearers de<g ref="char:EOLhyphen"/>nounce the ſame to the Ordinaries, or the nexte byſ<g ref="char:EOLhyphen"/>ſhope of the ſame place: but no man openly to con<g ref="char:EOLhyphen"/>trary or to impugne y<hi rend="sup">e</hi> ſame ſpeache ſo diſorderly vt<g ref="char:EOLhyphen"/>tered: wherebye may growe offence and diſquiet of the people, but ſhalbe conuinced and reproued by the ordinarye after ſuche agreable order, as ſhall be ſeene to him according to the grauitie of the offen<g ref="char:EOLhyphen"/>ce. And that it be preſentid within one moneth af<g ref="char:EOLhyphen"/>ter the wordes ſpoken.</p>
+               <p>Item, that they vſe not to exact or receaue vnre<g ref="char:EOLhyphen"/>ſonable rewardes or ſtipendes of the poore Pa<g ref="char:EOLhyphen"/>ſtors, comminge to theyre Cures to preache, wherbye they might be noted as folowers of filthi lucre, rather then vſe thoffice of preaching of Cha<g ref="char:EOLhyphen"/>ritie and good zeale, to the ſaluation of mens ſou<g ref="char:EOLhyphen"/>les.</p>
+               <p>Item, if the Parſon be able, he ſhall preache in his own perſon euery thre monethes, or els ſhal preache by an other, ſo that his abſence be approued by the Ordinarie of y<hi rend="sup">e</hi> dioces in reſpecte of ſickenes, ſeruice
+<pb facs="tcp:22785:4"/>
+                  <!-- PDF PAGE 4 -->
+or ſtudie at the Vniuerſities. Neuertheleſſe yet for wante of able Preachers and Parſons, to tolerate them without penaltye, ſo that they preache in theyre owne perſons, or by a Learned ſubſtitute, once in euerie thre monethes of the yeare.</p>
+            </div>
+            <div type="part">
+               <head>¶ Articles for adminiſtration of <hi>prayer and Sacramentes.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irſt, that the Common praier be ſaid or ſong decently and diſtinctly, in ſuche place as the Ordinarie ſhall thinke meete for the largeneſſe and ſtreightnes of the Churche &amp; quire, ſo that the people maye be moſte edified.</p>
+               <p>Item, that no Parſon or curate, not admitted by the byſſhoppe of the dioces to preache, do expoun<g ref="char:EOLhyphen"/>de in his owne Cure or other where, anye ſcripture or matter of doctrine or by the way of exhortacion, but onlye ſtudie to reade grauelie and aptlye, with<g ref="char:EOLhyphen"/>oute any gloſing of the ſame, or anye additions, the homylies al readye ſett owte, or other ſuche neceſſa<g ref="char:EOLhyphen"/>rie doctrine as is or ſhalbe preſcribed for the quiet in<g ref="char:EOLunhyphen"/>ſtruction and edification of the people.</p>
+               <p>Item, that in Cathedrall churches &amp; colledges y<hi rend="sup">t</hi> holye Communion be miniſtred vpon the firſt or ſe<g ref="char:EOLhyphen"/>conde ſunday of euery monethe at the leaſte. So that both Deane, prebendaries, preiſtes and clerkes do receyue: and al other of diſcretion of the funda<g ref="char:EOLhyphen"/>tion, do receaue foure times in the yeare at the leaſt.</p>
+               <p>
+                  <pb facs="tcp:22785:5"/>
+                  <!-- PDF PAGE 5 -->Item, in the miniſtration of the holy Communi<g ref="char:EOLhyphen"/>on in cathedrall and collegiat churches, the princi<g ref="char:EOLhyphen"/>pal miniſter ſhall vſe a cope, with goſpeller and epiſ<g ref="char:EOLhyphen"/>toler agreablye, and at all other praiers to be ſaid at that Communion table, to vſe no Copes but ſurpleſſes.</p>
+               <p>Item, that the Deane and Prebendaries weare a ſurples with a ſilke hoode in the quier: and when they preache in the Cathedrall or collegiate church, to weare theyre hoode.</p>
+               <p>Item, that everie miniſter ſayeng anye publique praiers or miniſtring the Sacramentes or other rites of the churche, ſhall weare a comely ſurples with ſleues, to be prouided at the charges of the pa<g ref="char:EOLhyphen"/>riſhe: and that the Pariſhe prouide a decent table ſtandinge on a frame, for the Communion table.</p>
+               <p>Item, they ſhall decentlie couer with Carpet, ſilke or other decent coueringe, and withe a fayre ly<g ref="char:EOLhyphen"/>nen cloth at the tyme of the miniſtration, the com<g ref="char:EOLhyphen"/>munyon table, and to ſett the tenne Commaunde<g ref="char:EOLhyphen"/>mentes vppon the Eaſt wall ouer the ſaid table.</p>
+               <p>Item, that all communicates do receaue kneeling, and as is appointed by the lawes of the Realme, and the Quenes mageſtyes Iniunctions.</p>
+               <p>Item, that the fonte be not remoued, nor that the Curate do baptiſe in pariſhe Churches in any Ba<g ref="char:EOLhyphen"/>ſons, nor in anye other forme then is alreadie pre<g ref="char:EOLhyphen"/>ſcribed,
+<pb facs="tcp:22785:5"/>
+                  <!-- PDF PAGE 5 -->
+without charginge the parent to be preſent or abſent at the Chriſtening of his childe, although the parent may bee preſent or abſent, but not to an<g ref="char:EOLhyphen"/>ſwere as Godfather for his childe.</p>
+               <p>Item, that no childe bee admitted to anſwer as Godfather or godmother, except the childe hath re<g ref="char:EOLhyphen"/>ceaued the Communion.</p>
+               <p>Item, that there be none other holidayes obſerued beſides the Sundayes, but onely ſuche as be ſet out for holidayes, as in the Statute <hi>Anno quinto &amp; ſexto Edwardi ſexti,</hi> &amp; in the new kalender autho<g ref="char:EOLhyphen"/>ryſed by the Queenes maieſty.</p>
+               <p>Item, that when any Chriſtian bodye is in paſ<g ref="char:EOLhyphen"/>ſing, that the bell be tolled, and that the Curate be ſpecially called for to comforte the ſicke perſon: and after the tyme of his paſſinge, to ringe no more but one ſhorte peale: and one before the buriall, and an other ſhorte peale after the buriall.</p>
+               <p>Item, that on Sundaies there be no ſhoppes ope<g ref="char:cmbAbbrStroke">̄</g>, nor artificers commonlye goinge aboute theire af<g ref="char:EOLhyphen"/>faires worldly. And that in all Faires and common markets, fallinge vppon the ſunday, there be no ſhe<g ref="char:EOLhyphen"/>wing of any wares before the Seruice be done.</p>
+               <p>Item, that in the Rogation dayes of proceſſion, they ſinge or ſaye in Engliſhe the twoo Pſalmes beginninge, <hi>Benedic anima mea. &amp;c.</hi> with the Letanye and Suffrages there vnto, with one Ho<g ref="char:EOLhyphen"/>melye of thankes geuinge to God, already deuiſed and diuided into foure partes, without addition of any ſuperſtitiouſe ceremonyes heretofore vſed.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:22785:6"/>
+               <!-- PDF PAGE 6 -->
+               <head>Articles for certayne orders in ec<g ref="char:EOLhyphen"/>cleſiaſticall policy.</head>
+               <p>FIrſt, againſte the day of giuing of orders ap<g ref="char:EOLhyphen"/>poynted, the Byſſhoppe ſhall geue open moni<g ref="char:EOLhyphen"/>tions to all men, to except agaynſte ſuche as they knowe not to be worthy, either for life or con<g ref="char:EOLhyphen"/>uerſation. And there to giue notice that none ſhall ſewe for orders, but within theire owne Dioces where they weare borne, or had theire longe tyme of dwellinge, except ſuche, as ſhall bee of degree in the Vniuerſitees.</p>
+               <p>Item, that younge Preiſtes or Miniſters, made or to be made, be ſo inſtructed, that they bee able to make apte aunſweres concerninge the forme of the Catechiſme preſcribed.</p>
+               <p>Item, that no Curate or Miniſter bee permitted to ſerue without examination and admiſſion of y<hi rend="sup">e</hi> Ordinary or his deputy, in writing, hauing reſpect to the greatnes of the Cure, and the meetenes of the party: and that the ſayde Miniſters if they re<g ref="char:EOLhyphen"/>mooue from one Dioces to an nother, bee by no meanes admitted to ſerue, without teſtimonye of the Dioceſan from whence they come, in writing, of theyre honeſty, and ability.</p>
+               <p>Item, that the Byſſhop doe call home once in the yeare any Prebendary in his Churche, or beneficed in the Dioces whiche ſtudieth at the Vniuerſities, to knowe how hee profiteth in learninge: and that he be not ſuffered to bee a ſeruinge or a waytinge man diſſolutely.</p>
+               <p>
+                  <pb facs="tcp:22785:6"/>
+                  <!-- PDF PAGE 6 -->Item, that at the Archedeacons viſitation, the Archedeacon ſhall appoynte the Curates to cer<g ref="char:EOLhyphen"/>tayne taxes of the newe Teſtamente, to bee conde without booke. And at theire nexte Synode to ex<g ref="char:EOLhyphen"/>acte a rehearſall of them.</p>
+               <p>Item, that the Churchewardens once in y<hi rend="sup">e</hi> quar<g ref="char:EOLhyphen"/>ter declare by theyre Curates in billes ſubſcribed with their handes to the Ordinarye or to the nexte officer vnder him, who they bee whiche will not readyly paye theire penalties for not comminge to Goddes diuine ſeruice accordingly.</p>
+               <p>Item, that the Ordinaries doe vſe good diligente examination, to foreſee all Simoniacall pactes or couenaunts with the Patrons or preſenters, for the ſpoyle of their glebe, tithes, or manſion houſes.</p>
+               <p>Item, that no perſons be ſuffered to marye with<g ref="char:EOLhyphen"/>in the Leuiticall degrees mentioned in a Table ſet forthe by the Archebyſſhoppe of Caunterburye in that behalfe, <hi>Anno Domini</hi> 1563. and if any ſuche bee, to be ſeparated by order of lawe.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:22785:7"/>
+               <!-- PDF PAGE 7 -->
+               <head>Articles for outwarde apparrell of perſons Eccleſiaſticall.</head>
+               <p>FIrſte, that all Archebyſhoppes &amp; Byſhoppes do vſe and co<g ref="char:cmbAbbrStroke">̄</g>tineue their accuſtomed apparrell.</p>
+               <p>Item, that all Deanes of cathedrall churches, Maſters of Colledges, all Archedeacons, and other dignities in Cathedral churches: doctors, bachelers of Diuinitye and Lawe, hauing any Eccleſiaſticall liuinge, ſhall weare in their common apparrell a<g ref="char:EOLhyphen"/>brode, a ſyde gowne with ſleeues ſtreyght at the hande, without any cuttes in the ſame. And that al<g ref="char:EOLhyphen"/>ſo without any fallinge cape: and to weare typpets of ſarcenet, as is lawfull for them by thact of parli<g ref="char:EOLhyphen"/>ament, Anno 24. <hi>Henrici octaui.</hi>
+               </p>
+               <p>Item, that all doctors of Phyſick, or of any other facultye, hauinge any liuinge eccleſiaſticall, or any other that may diſpende by the churche one hu<g ref="char:cmbAbbrStroke">̄</g>dred markes, ſo to bee eſtemed by the fruites or tenthes of their promotions: and all Prebendaries, whoſe promotions be valued at twe<g ref="char:cmbAbbrStroke">̄</g>ty pound or vpward, weare the like apparrell.</p>
+               <p>Item, that they and all eccleſiaſticall perſons, or other hauinge any eccleſiaſticall liuinge, doe weare the cappe appointed by the Iniunctions. And they to weare no hattes but in their iourneinge.</p>
+               <p>Item, that they in their iourneinge do weare theire clokes with ſleeues put on, and lyke in faſſhi<g ref="char:EOLhyphen"/>on to their gownes, without gards, welts, or cuts.</p>
+               <p>
+                  <pb facs="tcp:22785:7"/>
+                  <!-- PDF PAGE 7 -->Item, that in their priuate howſes and Studies, they vſe their owne liberty of comely apparrell.</p>
+               <p>Item, that all inferiour Eccleſiaſticall perſons ſhall weare longe gownes of the faſſhion afore<g ref="char:EOLhyphen"/>ſayde, and cappes as afore is preſcribed.</p>
+               <p>Item, that all poore Parſons, vicars and curates do endeuor themſelues to conforme their apparrell in like ſorte, ſo ſoone and as conuenientlye as theire abilitye will ſerue to the ſame. Prouided that their abilitye bee iudged by the Byſſhop of the Dioces. And yf theire abilitye will not ſuffer to buye them longe gownes of the forme afore preſcribed, that then they ſhall weare their ſhorte gownes, agrea<g ref="char:EOLhyphen"/>ble to the forme before expreſſed.</p>
+               <p>Item, that al ſuche perſons as haue ben or be Ec<g ref="char:EOLhyphen"/>cleſiaſticall, and ſerue not the minyſterie, or haue not accepted or ſhall refuſe to accepte the othe of o<g ref="char:EOLhyphen"/>bedience to the Queenes Maieſty, doe from hence<g ref="char:EOLhyphen"/>fourth abrode weare none of the ſayde apparrell of the forme &amp; faſſhion aforeſayde, but to go as mere laye men, till they bee reconciled to obedience: and who ſhall obſtinately refuſe to do the ſame, y<hi rend="sup">t</hi> they bee preſented by the Ordinarye to the Commiſſio<g ref="char:EOLhyphen"/>ners in cauſes Eccleſiaſticall, and by them to be re<g ref="char:EOLhyphen"/>formed accordingly.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:22785:8"/>
+               <!-- PDF PAGE 8 -->
+               <head>Proteſtations to be made, promiſed and ſubſcribed by them that ſhall hereafter bee ad<g ref="char:EOLhyphen"/>mitted to any office, roome or cure in any Churche, or other place Eccleſiaſticall.</head>
+               <p>
+                  <hi>IN primis,</hi> I ſhall not preache or publiquely in<g ref="char:EOLhyphen"/>terprete, but onelye reade that whiche is appoin<g ref="char:EOLhyphen"/>ted by publique authoritye, without ſpeciall licenſe of the Byſſhoppe vnder his ſeale.</p>
+               <p>I ſhall reade the ſeruice appoynted, plainly, diſtin<g ref="char:EOLhyphen"/>ctly and audibly, that all the people may heare and vnderſtande.</p>
+               <p>I ſhall keepe the Regiſter booke accordinge to the Queenes Maieſties Iniunctions.</p>
+               <p>I ſhall vſe ſobrietye in apparrell, and ſpecially in the Churche at Common prayers, accordinge to order appoynted.</p>
+               <p>I ſhall moue the pariſhioners to quiet and con<g ref="char:EOLhyphen"/>corde, and not geue them cauſe of offence, and ſhall helpe to reconcile them whiche be at variaunce, to my vttermoſte power.</p>
+               <p>I ſhall reade dayly at the leaſte one chapter of the Olde Teſtament, and an other of the Newe with good aduiſement, to thincreaſe of my knowledge.</p>
+               <p>I do alſo faithfully promiſe in my perſon, to vſe &amp; exerciſe my office and place to the honor of God, to the quiet of y<hi rend="sup">e</hi> Qeenes ſubiects within my charge, in truth, concorde and vnitye. And alſo to obſerue,
+<pb facs="tcp:22785:8"/>
+                  <!-- PDF PAGE 8 -->
+keepe and mentayne ſuche order and vniformity in all externall policye, Rites and Ceremonies of the Church, as by the lawes, good vſuages and orders are allready well prouided and eſtabliſhed.</p>
+               <p>I ſhall not openlye intermedle with any artificers occupacions, as couetouſlye to ſeeke a gayne there<g ref="char:EOLhyphen"/>by, hauinge in Eccleſiaſticall lyuinge to the ſomme of twenty Nobles or aboue by yeare.</p>
+            </div>
+            <closer>
+               <signed>Agreed vpon and ſubſcribed by
+<list>
+                     <item>
+                        <list>
+                           <head>Commiſſioners in cauſes Eccle<g ref="char:EOLhyphen"/>ſiaſticall.</head>
+                           <item>Matthaeus Cantuarienſis.</item>
+                           <item>Edmundus Londonienſis.</item>
+                           <item>Richardus Elienſis.</item>
+                           <item>Edmundus Roffenſis.</item>
+                        </list>
+                     </item>
+                     <item>Robertus VVintonienſis.</item>
+                     <item>Nicolaus Lincolnienſis. <hi>With others.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>Imprinted at London by Reginalde Wolfe.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
